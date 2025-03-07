@@ -9,5 +9,14 @@
         "H_AC",
         "H_TOT"
     ],
-    "humididty_max": 89
+    "humididty_max": 89,
+    "best_params": {
+        "hidden_dim": 43,
+        "num_layers": 2,
+        "learning_rate": 0.00028257980752326373,
+        "batch_size": 32,
+        "num_epochs": 45,
+        "loss_function": "Huber",
+        "optimizer": "Adam"
+    }
 }
