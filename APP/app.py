@@ -6,6 +6,7 @@ import joblib
 
 app = FastAPI()
 
+
 # Load the trained ANN model
 class ANN(nn.Module):
     def __init__(self):
