@@ -1,0 +1,11 @@
+{
+    "ANN_features": [
+        "H_AC",
+        "H_TOT",
+        "MRI_BEFORE",
+        "DAYS_SINCE_MAINTENANCE",
+        "Added_Thickness",
+        "AADTT",
+        "AGE"
+    ]
+}

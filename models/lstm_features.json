@@ -1,0 +1,13 @@
+{
+    "LSTM_features": [
+        "PRECIPITATION",
+        "TEMP_MEAN_AVG",
+        "FREEZE_INDEX",
+        "FREEZE_THAW",
+        "REL_HUM_AVG_AVG",
+        "AADTT",
+        "H_AC",
+        "H_TOT"
+    ],
+    "humididty_max": 89
+}
