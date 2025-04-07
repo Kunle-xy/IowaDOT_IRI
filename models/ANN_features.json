@@ -1,18 +1,18 @@
 {
     "best_params": {
-        "reduced_text_size": 162,
-        "numeric_hidden_size": 52,
-        "final_hidden_size": 52,
-        "dropout_text": 0.3405524018410719,
-        "dropout_numeric": 0.2537523950856545,
-        "lr": 0.0007298418081437624,
-        "weight_decay": 8.429048445006998e-05,
-        "epochs": 273,
-        "batch_size": 64,
+        "reduced_text_size": 227,
+        "numeric_hidden_size": 46,
+        "final_hidden_size": 49,
+        "dropout_text": 0.2494300024625583,
+        "dropout_numeric": 0.22256169388776795,
+        "lr": 0.00043477445698935144,
+        "weight_decay": 0.0002973785987869926,
+        "epochs": 381,
+        "batch_size": 16,
         "criterion": "SmoothL1Loss",
         "optimizer": "Adam",
-        "step_size": 50,
-        "gamma": 0.6943099896167412
+        "step_size": 16,
+        "gamma": 0.659328234044386
     },
     "ann_features": [
         "AGE",
