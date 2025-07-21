@@ -1,0 +1,33 @@
+CODETYPE,CODE,DETAIL,ADDL_CODE,ADDL_CODETYPE
+MAINT_WORK,1,Crack Sealing,1,UNITS
+MAINT_WORK,10,AC Shoulder Restoration,2,UNITS
+MAINT_WORK,11,AC Shoulder Replacement,2,UNITS
+MAINT_WORK,12,Grinding Surface,2,UNITS
+MAINT_WORK,19,Asphalt Concrete Overlay,2,UNITS
+MAINT_WORK,2,Transverse Joint Sealing,1,UNITS
+MAINT_WORK,21,Mechanical Premix Patch (using motor grader and roller),2,UNITS
+MAINT_WORK,22,Manual Premix Spot Patch (hand spreading and compacting with roller),2,UNITS
+MAINT_WORK,23,Machine Premix Patch (placing premix with paver roller),2,UNITS
+MAINT_WORK,24,"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",2,UNITS
+MAINT_WORK,25,"Patch Pot Holes - Hand Spread, Compacted with Truck",3,UNITS
+MAINT_WORK,26,Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),2,UNITS
+MAINT_WORK,27,Strip Patching (using spreader and distributor to apply hot liquid asphalt and aggregate),2,UNITS
+MAINT_WORK,28,"Surface Treatment, Single Layer",2,UNITS
+MAINT_WORK,29,"Surface Treatment, Double Layer ",2,UNITS
+MAINT_WORK,3,Lane-Shoulder Longitudinal Joint Sealing,1,UNITS
+MAINT_WORK,31,Aggregate Seal Coat,2,UNITS
+MAINT_WORK,32,Sand Seal Coat,2,UNITS
+MAINT_WORK,33,Slurry Seal Coat,2,UNITS
+MAINT_WORK,34,Fog Seal Coat,2,UNITS
+MAINT_WORK,36,Tack Coat,2,UNITS
+MAINT_WORK,38,Longitudinal Subdrains,1,UNITS
+MAINT_WORK,39,Transverse Subdrainage,1,UNITS
+MAINT_WORK,43,Hot-Mix Recycled Asphalt Concrete Overlay,2,UNITS
+MAINT_WORK,45,"Heater Scarification, Surface Recycled Asphalt Concrete",2,UNITS
+MAINT_WORK,51,Mill Off AC and Overlay with AC ,2,UNITS
+MAINT_WORK,53,Other,,
+MAINT_WORK,55,Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,2,UNITS
+MAINT_WORK,56,Mill Existing Pavement and Overlay with Cold-Mix Recycled AC,2,UNITS
+MAINT_WORK,58,Mill Existing Pavement and Overlay with Warm Mix AC,2,UNITS
+MAINT_WORK,60,Warm Mix AC Overlay with RAP and/or RAS,2,UNITS
+MAINT_WORK,61,Mill Existing Pavement and Overlay with Warm Mix Recycled AC,2,UNITS
