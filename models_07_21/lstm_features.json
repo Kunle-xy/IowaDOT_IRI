@@ -1,0 +1,23 @@
+{
+    "LSTM_features": [
+        "PRECIPITATION",
+        "TEMP_MEAN_AVG",
+        "FREEZE_INDEX",
+        "FREEZE_THAW",
+        "REL_HUM_AVG_AVG",
+        "AADTT",
+        "H_AC",
+        "H_TOT",
+        "Days_since_last_MRI"
+    ],
+    "humididty_max": 89,
+    "best_params": {
+        "hidden_dim": 116,
+        "num_layers": 2,
+        "learning_rate": 0.0013492405133966963,
+        "batch_size": 64,
+        "num_epochs": 15,
+        "loss_function": "Huber",
+        "optimizer": "Adam"
+    }
+}
