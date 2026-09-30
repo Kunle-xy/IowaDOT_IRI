@@ -1,0 +1,103 @@
+MAINTENANCE,STATE_CODE
+AC Shoulder Replacement,4
+"AC Shoulder Replacement, Asphalt Concrete Overlay",1
+"AC Shoulder Replacement, Asphalt Concrete Overlay, Aggregate Seal Coat",1
+"AC Shoulder Replacement, Mill Existing Pavement and Overlay with Hot-Mix Recycled AC",7
+"AC Shoulder Replacement, Mill Off AC and Overlay with AC ",9
+AC Shoulder Restoration,3
+"AC Shoulder Restoration, Asphalt Concrete Overlay",28
+"AC Shoulder Restoration, Asphalt Concrete Overlay, Fog Seal Coat",3
+"AC Shoulder Restoration, Asphalt Concrete Overlay, Fog Seal Coat, Hot-Mix Recycled Asphalt Concrete Overlay",2
+"AC Shoulder Restoration, Asphalt Concrete Overlay, Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",1
+"AC Shoulder Restoration, Asphalt Concrete Overlay, Heater Scarification, Surface Recycled Asphalt Concrete",1
+"AC Shoulder Restoration, Asphalt Concrete Overlay, Hot-Mix Recycled Asphalt Concrete Overlay",1
+"AC Shoulder Restoration, Asphalt Concrete Overlay, Machine Premix Patch (placing premix with paver roller)",3
+"AC Shoulder Restoration, Asphalt Concrete Overlay, Manual Premix Spot Patch (hand spreading and compacting with roller), Tack Coat",1
+"AC Shoulder Restoration, Asphalt Concrete Overlay, Mill Existing Pavement and Overlay with Hot-Mix Recycled AC",1
+"AC Shoulder Restoration, Asphalt Concrete Overlay, Mill Off AC and Overlay with AC ",4
+"AC Shoulder Restoration, Asphalt Concrete Overlay, Tack Coat",1
+"AC Shoulder Restoration, Fog Seal Coat, Hot-Mix Recycled Asphalt Concrete Overlay, Mill Existing Pavement and Overlay with Hot-Mix Recycled AC",1
+"AC Shoulder Restoration, Hot-Mix Recycled Asphalt Concrete Overlay",27
+"AC Shoulder Restoration, Hot-Mix Recycled Asphalt Concrete Overlay, Mill Existing Pavement and Overlay with Hot-Mix Recycled AC",4
+"AC Shoulder Restoration, Longitudinal Subdrains, Mill Off AC and Overlay with AC ",1
+"AC Shoulder Restoration, Machine Premix Patch (placing premix with paver roller), Hot-Mix Recycled Asphalt Concrete Overlay",1
+"AC Shoulder Restoration, Machine Premix Patch (placing premix with paver roller), Mill Existing Pavement and Overlay with Hot-Mix Recycled AC",2
+"AC Shoulder Restoration, Machine Premix Patch (placing premix with paver roller), Mill Off AC and Overlay with AC ",2
+"AC Shoulder Restoration, Manual Premix Spot Patch (hand spreading and compacting with roller), Tack Coat, Hot-Mix Recycled Asphalt Concrete Overlay",1
+"AC Shoulder Restoration, Mill Existing Pavement and Overlay with Hot-Mix Recycled AC",20
+"AC Shoulder Restoration, Mill Off AC and Overlay with AC ",23
+"AC Shoulder Restoration, Tack Coat, Hot-Mix Recycled Asphalt Concrete Overlay",1
+"AC Shoulder Restoration, Tack Coat, Mill Existing Pavement and Overlay with Hot-Mix Recycled AC",2
+"AC Shoulder Restoration, Tack Coat, Mill Off AC and Overlay with AC ",2
+Aggregate Seal Coat,161
+"Aggregate Seal Coat, Hot-Mix Recycled Asphalt Concrete Overlay",2
+"Aggregate Seal Coat, Mill Existing Pavement and Overlay with Hot-Mix Recycled AC",1
+"Aggregate Seal Coat, Mill Off AC and Overlay with AC ",18
+Asphalt Concrete Overlay,128
+"Asphalt Concrete Overlay, Aggregate Seal Coat",4
+"Asphalt Concrete Overlay, Aggregate Seal Coat, Mill Off AC and Overlay with AC ",1
+"Asphalt Concrete Overlay, Fog Seal Coat",1
+"Asphalt Concrete Overlay, Hot-Mix Recycled Asphalt Concrete Overlay, Mill Off AC and Overlay with AC ",3
+"Asphalt Concrete Overlay, Manual Premix Spot Patch (hand spreading and compacting with roller)",1
+"Asphalt Concrete Overlay, Mill Existing Pavement and Overlay with Cold-Mix Recycled AC",1
+"Asphalt Concrete Overlay, Mill Existing Pavement and Overlay with Hot-Mix Recycled AC",5
+"Asphalt Concrete Overlay, Mill Off AC and Overlay with AC ",20
+"Asphalt Concrete Overlay, Slurry Seal Coat",1
+Crack Sealing,337
+"Crack Sealing, AC Shoulder Restoration, Asphalt Concrete Overlay",2
+"Crack Sealing, Aggregate Seal Coat",1
+"Crack Sealing, Asphalt Concrete Overlay",5
+"Crack Sealing, Asphalt Concrete Overlay, Machine Premix Patch (placing premix with paver roller)",1
+"Crack Sealing, Fog Seal Coat",1
+"Crack Sealing, Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",3
+"Crack Sealing, Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing), Patch Pot Holes - Hand Spread, Compacted with Truck",1
+"Crack Sealing, Machine Premix Patch (placing premix with paver roller)",1
+"Crack Sealing, Manual Premix Spot Patch (hand spreading and compacting with roller)",1
+"Crack Sealing, Mechanical Premix Patch (using motor grader and roller)",1
+"Crack Sealing, Patch Pot Holes - Hand Spread, Compacted with Truck",18
+"Crack Sealing, Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate)",3
+"Crack Sealing, Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate), Strip Patching (using spreader and distributor to apply hot liquid asphalt and aggregate)",5
+"Crack Sealing, Slurry Seal Coat",1
+"Crack Sealing, Strip Patching (using spreader and distributor to apply hot liquid asphalt and aggregate)",7
+"Crack Sealing, Transverse Joint Sealing, Patch Pot Holes - Hand Spread, Compacted with Truck",2
+Fog Seal Coat,25
+"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",26
+"Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing), Patch Pot Holes - Hand Spread, Compacted with Truck",1
+Grinding Surface,12
+"Grinding Surface, Asphalt Concrete Overlay",5
+"Grinding Surface, Asphalt Concrete Overlay, Aggregate Seal Coat",1
+"Grinding Surface, Asphalt Concrete Overlay, Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing)",1
+"Grinding Surface, Asphalt Concrete Overlay, Full Depth Patch of AC Pavement (removing damaged material, repairing supporting material, and repairing), Aggregate Seal Coat",1
+"Grinding Surface, Hot-Mix Recycled Asphalt Concrete Overlay, Heater Scarification, Surface Recycled Asphalt Concrete",1
+"Grinding Surface, Manual Premix Spot Patch (hand spreading and compacting with roller)",1
+"Grinding Surface, Patch Pot Holes - Hand Spread, Compacted with Truck",1
+"Grinding Surface, Surface Treatment, Single Layer",1
+"Heater Scarification, Surface Recycled Asphalt Concrete",1
+Hot-Mix Recycled Asphalt Concrete Overlay,5
+"Hot-Mix Recycled Asphalt Concrete Overlay, Mill Existing Pavement and Overlay with Hot-Mix Recycled AC",4
+"Hot-Mix Recycled Asphalt Concrete Overlay, Mill Off AC and Overlay with AC ",1
+Lane-Shoulder Longitudinal Joint Sealing,2
+Machine Premix Patch (placing premix with paver roller),16
+"Machine Premix Patch (placing premix with paver roller), Strip Patching (using spreader and distributor to apply hot liquid asphalt and aggregate)",1
+Manual Premix Spot Patch (hand spreading and compacting with roller),68
+"Manual Premix Spot Patch (hand spreading and compacting with roller), Machine Premix Patch (placing premix with paver roller)",1
+"Manual Premix Spot Patch (hand spreading and compacting with roller), Patch Pot Holes - Hand Spread, Compacted with Truck",2
+Mechanical Premix Patch (using motor grader and roller),9
+Mill Existing Pavement and Overlay with Cold-Mix Recycled AC,1
+Mill Existing Pavement and Overlay with Hot-Mix Recycled AC,26
+Mill Off AC and Overlay with AC ,61
+"Patch Pot Holes - Hand Spread, Compacted with Truck",176
+"Patch Pot Holes - Hand Spread, Compacted with Truck, Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate)",1
+"Patch Pot Holes - Hand Spread, Compacted with Truck, Strip Patching (using spreader and distributor to apply hot liquid asphalt and aggregate)",1
+"Patch Pot Holes - Hand Spread, Compacted with Truck, Surface Treatment, Single Layer",1
+Sand Seal Coat,1
+"Sand Seal Coat, Mill Off AC and Overlay with AC ",1
+Skin Patching (hand tools/hot pot to apply liquid asphalt and aggregate),88
+Slurry Seal Coat,75
+Strip Patching (using spreader and distributor to apply hot liquid asphalt and aggregate),38
+"Strip Patching (using spreader and distributor to apply hot liquid asphalt and aggregate), Aggregate Seal Coat",1
+"Strip Patching (using spreader and distributor to apply hot liquid asphalt and aggregate), Slurry Seal Coat",2
+"Surface Treatment, Double Layer ",5
+"Surface Treatment, Single Layer",26
+"Surface Treatment, Single Layer, Mill Existing Pavement and Overlay with Hot-Mix Recycled AC",1
+Tack Coat,1

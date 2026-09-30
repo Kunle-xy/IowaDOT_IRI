@@ -1,0 +1,26 @@
+{
+    "best_params": {
+        "reduced_text_size": 120,
+        "numeric_hidden_size": 41,
+        "final_hidden_size": 64,
+        "dropout_text": 0.36641327576066773,
+        "dropout_numeric": 0.21709857900783694,
+        "lr": 0.0006842821832081152,
+        "weight_decay": 1.6486727840053948e-05,
+        "epochs": 213,
+        "batch_size": 16,
+        "criterion": "SmoothL1Loss",
+        "optimizer": "Adam",
+        "step_size": 27,
+        "gamma": 0.7237129750133853
+    },
+    "ann_features": [
+        "AGE",
+        "H_AC",
+        "H_TOT",
+        "MRI_BEFORE",
+        "DAYS_SINCE_MAINTENANCE",
+        "Added_Thickness",
+        "AADTT"
+    ]
+}

@@ -1,0 +1,4 @@
+# Large generated parquet datasets
+DATA_07_26/*.parquet
+DATA_07_27/*.parquet
+
